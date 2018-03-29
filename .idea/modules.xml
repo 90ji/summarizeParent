@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObjectAndSerialization/ObjectAndSerialization.iml" filepath="$PROJECT_DIR$/ObjectAndSerialization/ObjectAndSerialization.iml" />
       <module fileurl="file://$PROJECT_DIR$/summarizeParent.iml" filepath="$PROJECT_DIR$/summarizeParent.iml" />
     </modules>
   </component>
